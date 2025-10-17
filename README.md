@@ -1,186 +1,99 @@
-# Server_Qchat
+# SocketServer-SCPSL
+<a href="https://github.com/YF-OFFICE/SocketServer-SCPSL/releases"><img src="https://img.shields.io/github/v/release/YF-OFFICE/SocketServer-SCPSL?display_name=tag&style=for-the-badge&logo=gitbook&label=Release" href="https://github.com/YF-OFFICE/SocketServer-SCPSL/releases" alt="GitHub Releases"></a>
+<img src="https://img.shields.io/github/downloads/YF-OFFICE/SocketServer-SCPSL/total?style=for-the-badge&logo=github" alt="Downloads">
 
-# [English](https://github.com/jikekei/Server_Qchat/blob/main/English)
+一个可以将QQ群与服务端连接的插件
 
-**Server_Qchat** 是一个桥接工具，可将 [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/) 服务器连接至 QQ 群，支持多种实用的管理和互动功能。
+# 如有bug请在[Iss](https://github.com/YF-OFFICE/SocketServer-SCPSL/issues)里提出
 
----
 
-## ✨ 功能概览
+~~Warn:本权限组只允许群主使用Round指令  插件和程序正常运行 只是需要一个qq客户端的正向Websocket8080端口来链接 替换Cq客户端的方法在下方 当然你也可以自行寻找 只要是能有正向WebSocket8080端口就ok~~
 
-### 🟢 在线状态查询
 
-- `cx`：查询服务器在线人数和管理。
-- `info`：查询服务器信息。
-- `#1` / `#xx`：查询服务器在线玩家列表。
+目前所有拥有的指令:cx,info，round(暂不支持)
 
-### 🤖 智能关键词响应
+~~增加round指令
+round list查询玩家列表
+round rest 重启回合
+round start 启动回合
+round allrest 重启服务器
+round kick+id 踢出对应id玩家
+round bc+text 向服务器发送广播
+Warn:目前round指令只允许Q群群主使用 如有其他需求请在issues里提出~~
 
-- 包含 
-- 包含 
 
-### 🛠️ 管理指令功能（开发中）
+说明：
+本插件运用Socket将[SCPSL](scpslgame.com)
 
-通过 QQ 群发送指令，可远程控制服务器，需具备权限或白名单身份：
+基于[EXILED](https://github.com/Exiled-Team/EXILED/)开发
 
-#### 🚫 封禁玩家：`/ban`
+基于[EleCho.GoCqHttpSdk](https://github.com/OrgEleCho/EleCho.GoCqHttpSdk)开发
 
-```
-/ban 服务器ID 玩家ID 封禁时长(分钟) 封禁原因
-```
+查询功能与QQ群里连接起来;（也就是CX功能）
 
-示例：
-```
-/ban 1 66 60 使用外挂
-```
 
-- 封禁指定玩家一段时间（单位：分钟）。
 
-#### 📢 发送广播：`/bc`
+使用方法:
 
-```
-/bc 服务器ID 内容
-```
 
-示例：
-```
-/bc 1 本轮游戏即将结束，请注意准备！
-```
+在[Releases](https://github.com/NLK-TeamOffice/SocketServer-SCPSL/releases/)里找到最新版本并下载
 
-- 向该服务器内所有玩家发送一条系统广播。
 
-#### 🔁 重启当前轮次：`/round`
+1.将SocketServer.dll文件放到exiled/plugin里
 
-```
-/round 服务器ID
+
+2.打开服务器(确保对应的端口是打开的) 【如有多个服务器请在 对应exconfig里修改端口和name】
+
+```cs
+        public int TcpPort { get; set; } = 10087;
+        public string IP { get; set; } = "127.0.0.1";
+        public string name { get; set; } = "1服";
+        public bool IsEnabled { get ; set ; }=true;
+        public bool Debug { get ; set ; } = false;
 ```
 
-示例：
-```
-/round 1
-```
+~~~~
+因为现Gocqhttp不能用 提供两种解决方法
+~~~~
 
-- 重启该服务器当前局游戏，不关闭服务器本体。
+=====================================================
 
-#### 🧑‍💼 设置权限组：`/setadmin`（待完善）
 
-```
-/setadmin 服务器ID 玩家ID 权限组名
-```
+①.使用OpenSharmy框架(缺点占用服务器后台内存可能会很大) ~~提供教程链接 :[BiliBIli](https://www.bilibili.com/video/BV17m41197tQ)~~
 
-示例：
-```
-/setadmin #1 11 Moderator
-```
+教程视频已经不在 请到[点我](https://github.com/YF-OFFICE/SocketServer-SCPSL/blob/main/Yee.md)查看教程
 
-- 将玩家添加到指定权限组，未来将支持同步至 RemoteAdmin 权限或其他外部插件。
+Warn:不用安装OverFlow 到转换端口那一步 将端口5800专向8080端口 然后模拟器保持在后台运行
 
-### 🔎 预览功能（开发中）
 
-- 控制台输入 `.ac`，通过 `SocketServerAsync` 自动同步消息到 QQ 群。
-- 支持数据库连接，可配合插件查询 **游玩时间**、**击杀数量** 等（功能仍在完善中）。
-- 提供 **API 接口**，可通过 HTTP 查询服务器信息，无需部署插件。
+②.使用qq官方框架(例如:gensokyo框架)(缺点:需要自己注册一个qq机器人)
 
-### ✉️ 消息转发功能（开发中）
 
-- QQ 群消息可转发至游戏控制台。
-- 控制台或聊天关键字可转发至 QQ 群，实现远程监控。
-- 支持关键字触发、行为审计等进阶扩展。
+③.最推荐 使用[NapNeko](https://github.com/NapNeko/NapCatQQ)机器人登录 并且在初次运行后 将config里的ws改为6700
 
----
 
-## 📦 使用说明
 
-如不希望使用 API，可选择本地插件方式。
-
-👉 **推荐使用 API 接口：**  
-[📖 点击查看 API 使用文档](https://github.com/jikekei/Server_Qchat/blob/main/API%E8%B0%83%E7%94%A8%E7%89%88%E6%9C%AC.md)
-
----
-
-### 1️⃣ 登录 QQ 机器人
-
-推荐使用 [NapCatQQ](https://github.com/NapNeko/NapCatQQ) 框架（兼容 OneBot 协议的其他框架亦可使用）。
-
-按照 NapCatQQ 的说明进行登录，并修改配置文件路径：
-
-```
-config/onebot11_你的QQ号.json
-```
-
-确保配置如下：
-
-```json
-"ws": {
-  "enable": true,
-  "host": "127.0.0.1",
-  "port": 6700,
-  "reverseWs": {
+```cs
+如:"ws": {
     "enable": true,
-    "urls": [...]
-  }
-}
+    "host": "127.0.0.1",
+    "port": 6700
 ```
+=========================================================
 
-确保 `ws` 功能开启，监听端口为 **6700**。
+4.解压GoHttpqq-Socket.zip
 
----
 
-### 2️⃣ 安装 CX 查询插件
+5.打开GoHttpqq-Socket.exe
 
-- 下载 **CX 查询插件**。
-- 将插件放入 **Exiled 插件目录**。
-- 根据说明修改插件配置文件以适配服务器环境。
+6.先输入你想要查询的服务器 如有多个请用*隔开 如只有一个就只写一个 
 
----
+7.写入能查询的群号 规则同上↑
 
-### 3️⃣ 启动中继程序：`Server_Qchat_exe`
+回车确定 挂在后台
 
-- 本程序基于 **.NET 6.0** 框架开发。
-- 请先下载并安装 [.NET 6.0 运行时](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)。
-- 若程序闪退，可尝试安装运行库合集（例如 52pojie 论坛发布的版本）。
+就可以了 可以说是暂时代替 除了round暂时不能用 其他功能均正常运行
 
-程序启动后输入以下信息即可完成接入：
+6.在群中发送cx，info即可获取服务器信息
 
-```
-服务器端口号  
-QQ群号
-```
 
----
-
-## ❓ 常见问题
-
-> **Q:** 程序闪退怎么办？  
-> **A:** 请确认已安装 .NET 6.0 运行库，如仍失败，请尝试安装运行库合集。
-
-> **Q:** 插件未响应指令？  
-> **A:** 检查插件是否正确放置、是否与服务器版本兼容，并确认配置文件是否正确。
-
-> **Q:** API 不工作？  
-> **A:** 检查端口是否被占用、是否被防火墙拦截，并尝试重启程序。
-
----
-
-## 📬 联系方式
-
-如在使用过程中遇到问题或有建议，欢迎联系作者：
-
-- QQ : 3037240065  
-- 📧 邮箱：[liseximt@outlook.com](mailto:liseximt@outlook.com)
-
----
-
-## ✅ TODO 清单
-
-- [ ] 完善数据库查询功能  
-- [ ] 优化 API 兼容性  
-- [ ] 增加控制台图形界面  
-- [ ] 支持更多插件扩展  
-- [ ] 提供多语言支持（含英文国际化）  
-- [ ] 完善管理指令 `/setadmin` 权限联动功能  
-
----
-
-感谢使用 **Server_Qchat**！  
-如果你觉得这个项目对你有帮助，欢迎点个 ⭐️Star 支持一下！
