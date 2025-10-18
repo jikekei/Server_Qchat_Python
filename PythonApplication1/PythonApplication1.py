@@ -4,12 +4,23 @@ import json
 import re
 import datetime
 
+from typing import Union
+
+from qg_botsdk import BOT, ApiModel, BotCommandObject, CommandValidScenes, Model, Scope
+
 # ========== 工具函数 ==========
 def get_current_time():
     now = datetime.datetime.now(datetime.timezone.utc).astimezone()
     return now.strftime("%Y-%m-%d %H:%M:%S.%f %z")
 
+bot = BOT(
+    bot_id="102731179",
+    bot_secret="xX7iJuV6hItV7jLxZBoR4hKxaEsWAoS6",
+    is_async=True,  # 异步模式
+)
+
 async def socket_server_async(server_ip, port, text, timeout=10):
+    print(f"发送数据: {text} 到 {server_ip}:{port}")
     server_ip = "45.125.45.62";
     for attempt in range(3):
         try:
@@ -93,17 +104,17 @@ async def handle_info_command(valid_ports):
     return "".join(responses)
 
 async def process_command(msg_text, valid_ports):
-    if msg_text.startswith("/cx"):
+    if msg_text.startswith("cx"):
         reply = await handle_cx_command(valid_ports)
-    elif msg_text.startswith("/info"):
+    elif msg_text.startswith("info"):
         reply = await handle_info_command(valid_ports)
-    elif msg_text.startswith("/list"):
-        match = re.search(r"/list\s+(\d+)", msg_text)
+    elif msg_text.startswith("list"):
+        match = re.search(r"list\s+(\d+)", msg_text)
         index = int(match.group(1)) - 1 if match else 0
         reply = await handle_player_list_command(valid_ports, index)
-    elif msg_text.startswith("/ban"):
+    elif msg_text.startswith("ban"):
         # 支持格式: /ban <服务器编号> <玩家名> <时间> <原因>
-        match = re.search(r"/ban\s+(\d+)\s+(\S+)\s+(\d+)\s+(\S+)", msg_text)
+        match = re.search(r"ban\s+(\d+)\s+(\S+)\s+(\d+)\s+(\S+)", msg_text)
         if match:
             index = int(match.group(1)) - 1
             player_ID = match.group(2)
@@ -112,16 +123,16 @@ async def process_command(msg_text, valid_ports):
             reply = await handle_ban_command(valid_ports, player_ID, index, player_Time, player_index)
         else:
             reply = "请输入正确的用户ID格式: /ban <服务器索引> <ID> <时间> <原因>"
-    elif msg_text.startswith("/bc"):
+    elif msg_text.startswith("bc"):
         # 支持格式: /bc <服务器编号> <内容>
-        match = re.search(r"/bc\s+(\d+)\s+(.+)", msg_text)
+        match = re.search(r"bc\s+(\d+)\s+(.+)", msg_text)
         if match:
             index = int(match.group(1)) - 1
             message = match.group(2)
             reply = await handle_broadcast_command(valid_ports, message, index)
         else:
             reply = "格式错误，应为 /bc <服务器编号> <内容>"
-    elif msg_text.startswith("/help"):
+    elif msg_text.startswith("help"):
         reply = (
             "可用命令：\n"
             "/cx - 查看在线人数\n"
@@ -135,53 +146,83 @@ async def process_command(msg_text, valid_ports):
     return reply
 
 # ========== WebSocket 主监听 ==========
-async def qchat_listener(valid_ports):
-    uri = "ws://45.125.45.62:6700"
-    async with aiohttp.ClientSession() as session:
-        async with session.ws_connect(uri) as ws:
-            print(f"[{get_current_time()}] ✅ 已连接到 GoCqHttp WebSocket {uri}")
-            async for msg in ws:
-                if msg.type != aiohttp.WSMsgType.TEXT:
-                    continue
-                try:
-                    data = json.loads(msg.data)
-                except json.JSONDecodeError:
-                    continue
-                if "message" not in data:
-                    continue
+# async def qchat_listener(valid_ports):
+#     uri = "ws://45.125.45.62:6700"
+#     async with aiohttp.ClientSession() as session:
+#         async with session.ws_connect(uri) as ws:
+#             print(f"[{get_current_time()}] ✅ 已连接到 GoCqHttp WebSocket {uri}")
+#             async for msg in ws:
+#                 if msg.type != aiohttp.WSMsgType.TEXT:
+#                     continue
+#                 try:
+#                     data = json.loads(msg.data)
+#                 except json.JSONDecodeError:
+#                     continue
+#                 if "message" not in data:
+#                     continue
 
-                # ==== 修正后的消息解析 ====
-                raw_msg = data.get("message", "")
-                if isinstance(raw_msg, list):
-                    msg_text = "".join(
-                        seg.get("data", {}).get("text", "")
-                        for seg in raw_msg
-                        if seg.get("type") == "text"
-                    )
-                elif isinstance(raw_msg, str):
-                    msg_text = raw_msg
-                else:
-                    msg_text = ""
-                msg_text = msg_text.strip()
-                user_id = data.get("user_id")
-                group_id = data.get("group_id")
-                is_group = "group_id" in data
-                msg_type = "group" if is_group else "private"
-                target = group_id if is_group else user_id
-                print(f"[接收消息] {msg_type}({target}) -> {msg_text}")
+#                 # ==== 修正后的消息解析 ====
+#                 raw_msg = data.get("message", "")
+#                 if isinstance(raw_msg, list):
+#                     msg_text = "".join(
+#                         seg.get("data", {}).get("text", "")
+#                         for seg in raw_msg
+#                         if seg.get("type") == "text"
+#                     )
+#                 elif isinstance(raw_msg, str):
+#                     msg_text = raw_msg
+#                 else:
+#                     msg_text = ""
+#                 msg_text = msg_text.strip()
+#                 user_id = data.get("user_id")
+#                 group_id = data.get("group_id")
+#                 is_group = "group_id" in data
+#                 msg_type = "group" if is_group else "private"
+#                 target = group_id if is_group else user_id
+#                 print(f"[接收消息] {msg_type}({target}) -> {msg_text}")
 
-                # ==== 命令识别 ====
-                reply = await process_command(msg_text, valid_ports)
-                if reply:
-                    await send_qq_message(session, msg_type, target, reply)
+#                 # ==== 命令识别 ====
+#                 reply = await process_command(msg_text, valid_ports)
+#                 if reply:
+#                     await send_qq_message(session, msg_type, target, reply)
+
+async def deliver(data: Model.GROUP_MESSAGE):
+    bot.logger.info("收到消息啦！" + data.treated_msg)
+    reply = await process_command(data.treated_msg, valid_ports)
+    if reply:
+        msg = ApiModel.Message(content=reply)
+        await  data.reply(msg)
+
+
+    if "你好" in data.treated_msg:
+        # 由于qq单聊和群发送消息API加入了msg_seq字段（回复消息的序号），相同的 msg_id+msg_seq 重复发送会失败
+        # 因此强烈建议使用ApiModel.Message类构建消息，如需要回复多条消息便使用.update()方法，以这样的复用类来使用其内部自动递增的msg_seq
+        # 也可以使用ApiModel.Message类的get_msg_seq()方法获取当前msg_seq，并在此基础上+1传入发送消息API的msg_seq参数
+        msg = ApiModel.Message(content="你好，世界")
+        data.reply(msg)
+        ret = bot.api.upload_media(
+            file_type=1,
+            url="https://qqminiapp.cdn-go.cn/open-platform/11d80dc9/img/mini_app.2ddf1492.png",
+            srv_send_msg=False,
+            group_openid=data.group_openid,
+        )
+        msg.update(media_file_info=ret.data.file_info)
+        data.reply(msg)
+        data.reply(
+            "testing",
+            msg_seq=msg.get_msg_seq() + 1,
+        )
+        bot.logger.info(f"发送消息【你好，世界】到群{data.group_openid}")
+
 
 # ========== 主入口 ==========
-async def main():
+if __name__ == "__main__":
+# async def main():
     print("GitHub 项目地址: https://github.com/jikekei/Server_Qchat")
     ports_input = input("请输入服务器端口（多个用*分隔）: ") or "31146*31150*31160"
     valid_ports = [int(p.strip()) for p in ports_input.split("*") if p.strip().isdigit()]
     print(f"[{get_current_time()}] 启动监听 GoCqHttp WebSocket...")
-    await qchat_listener(valid_ports)
+    # await qchat_listener(valid_ports)
+    bot.bind_group_msg(deliver)
+    bot.start()
 
-if __name__ == "__main__":
-    asyncio.run(main())
