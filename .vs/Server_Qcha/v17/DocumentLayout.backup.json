@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\bot\\src\\server_qcha.bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|solutionrelative:bot\\src\\server_qcha.bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\bot\\src\\server_qcha.bot\\data\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|solutionrelative:bot\\src\\server_qcha.bot\\data\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\bot\\src\\server_qcha.bot\\server_qcha.bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9529AE97-356B-4760-BD13-AFEAD0FEE7A5}|bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj|solutionrelative:bot\\src\\server_qcha.bot\\server_qcha.bot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFD59672-73F0-4932-8636-42414C8162BF}|server\\Server_Qcha.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\server\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFD59672-73F0-4932-8636-42414C8162BF}|server\\Server_Qcha.csproj|solutionrelative:server\\commanddispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Program.cs",
+              "RelativeDocumentMoniker": "bot\\src\\Server_Qcha.Bot\\Program.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Program.cs",
+              "RelativeToolTip": "bot\\src\\Server_Qcha.Bot\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:33:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Data\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "bot\\src\\Server_Qcha.Bot\\Data\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Data\\PlayerRepository.cs",
+              "RelativeToolTip": "bot\\src\\Server_Qcha.Bot\\Data\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:33:10.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server_Qcha.Bot",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj",
+              "RelativeDocumentMoniker": "bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj",
+              "RelativeToolTip": "bot\\src\\Server_Qcha.Bot\\Server_Qcha.Bot.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T20:33:04.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommandDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\server\\CommandDispatcher.cs",
+              "RelativeDocumentMoniker": "server\\CommandDispatcher.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\server\\CommandDispatcher.cs",
+              "RelativeToolTip": "server\\CommandDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:33:02.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

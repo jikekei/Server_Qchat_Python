@@ -1,0 +1,210 @@
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\SocketServer.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\SocketServer.pdb
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Assembly-CSharp_publicized.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\CommandSystem.Core.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.API.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CreditTags.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomItems.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomRoles.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Events.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Loader.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Permissions.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Mirror.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\NorthwoodLib.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\PluginAPI.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Pooling.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.CoreModule.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\YamlDotNet.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\System.Buffers.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.API.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CreditTags.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomItems.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomRoles.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Events.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Loader.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Permissions.xml
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketSe.25F2A651.Up2Date
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.dll
+E:\新建文件夹\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.pdb
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Assembly-CSharp-firstpass.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Assembly-CSharp_publicized.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\CommandSystem.Core.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.API.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CreditTags.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomItems.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomRoles.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Events.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Loader.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Permissions.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Mirror.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\NorthwoodLib.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\PluginAPI.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Pooling.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.CoreModule.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\YamlDotNet.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\System.Buffers.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.API.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CreditTags.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomItems.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.CustomRoles.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Events.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Loader.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Exiled.Permissions.xml
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\SocketSe.25F2A651.Up2Date
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Server_Qcha.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Server_Qcha.pdb
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\Server_Qcha.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\obj\Debug\Server_Qcha.pdb
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Server_NapCha_API.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Server_NapCha_API.pdb
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Server_NapCha_API.dll.config
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\netstandard.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Newtonsoft.Json.dll
+E:\新建文件夹\插件合计查看库\SocketServer-SCPSL-1.1.2\SocketServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Server_Qcha.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Server_Qcha.pdb
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\CommandSystem.Core.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.API.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CreditTags.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CustomItems.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CustomRoles.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Events.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Loader.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Permissions.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Mirror.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\NorthwoodLib.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\PluginAPI.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Pooling.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\YamlDotNet.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.API.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CreditTags.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CustomItems.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.CustomRoles.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Events.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Loader.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Exiled.Permissions.xml
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\obj\Debug\SocketSe.25F2A651.Up2Date
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\obj\Debug\Server_Qcha.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\obj\Debug\Server_Qcha.pdb
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Assembly-CSharp.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\LabApi.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.UI.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Caress.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Snake.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\CustomPasses.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\netstandard.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.Mathematics.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.Collections.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.Burst.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\user123\Desktop\幻梦\插件\SocketServer-SCPSL-1.1.2 (3)\SocketServer\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Server_Qcha.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Server_Qcha.pdb
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Assembly-CSharp.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Mirror.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Pooling.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\LabApi.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.UI.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.RenderPipelines.HighDefinition.Runtime.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Caress.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Snake.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\CustomPasses.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\netstandard.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.TextCoreFontEngineModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.TextCoreTextEngineModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.Mathematics.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.Collections.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.Burst.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.VisualEffectGraph.Runtime.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.RenderPipelines.GPUDriven.Runtime.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\UnityEngine.PropertiesModule.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.Collections.LowLevel.ILSupport.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Unity.Burst.Unsafe.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.API.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CreditTags.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CustomItems.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CustomRoles.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Events.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Loader.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Permissions.xml
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\obj\Debug\SocketSe.25F2A651.Up2Date
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\obj\Debug\Server_Qcha.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\obj\Debug\Server_Qcha.pdb
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\CommandSystem.Core.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.API.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CreditTags.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CustomItems.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.CustomRoles.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Events.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Loader.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\Exiled.Permissions.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\NorthwoodLib.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\PluginAPI.dll
+C:\Users\user123\Desktop\幻梦\SocketServer-SCPSL-socks\SocketServer\bin\Debug\YamlDotNet.dll

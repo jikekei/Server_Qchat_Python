@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\socketserver-gohttpqqbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|solutionrelative:socketserver-gohttpqqbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\socketserver-gohttpqqbot\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|solutionrelative:socketserver-gohttpqqbot\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\socketserver-gohttpqqbot\\server-qcat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|solutionrelative:socketserver-gohttpqqbot\\server-qcat.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u5E7B\u68A6\u94F6\u6CB3\u63D2\u4EF6\\SocketServer-SCPSL-1.1.2\\SocketServer-GoHttpQQBOT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\CustomizableUIMeow-2.0\\CustomizableUIMeow-2.0\\Parser\\ConditionParser\\Respawn\\RespawnCondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\socketserver-gohttpqqbot\\server-qcat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|solutionrelative:socketserver-gohttpqqbot\\server-qcat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|c:\\users\\user123\\desktop\\\u5E7B\u68A6\\socketserver-scpsl-socks\\socketserver-gohttpqqbot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4715050-EB03-49CE-8E4D-B5B390CB00E9}|SocketServer-GoHttpQQBOT\\Server-Qcat.csproj|solutionrelative:socketserver-gohttpqqbot\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server-Qcat",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "RelativeDocumentMoniker": "SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "RelativeToolTip": "SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-03T02:31:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs",
+              "RelativeDocumentMoniker": "SocketServer-GoHttpQQBOT\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs",
+              "RelativeToolTip": "SocketServer-GoHttpQQBOT\\\u5F02\u5E38\u56DE\u5408\u68C0\u6D4B.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA0wI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:02:59.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u5E7B\u68A6\u94F6\u6CB3\u63D2\u4EF6\\SocketServer-SCPSL-1.1.2\\SocketServer-GoHttpQQBOT\\Program.cs",
+              "ToolTip": "E:\\\u65B0\u5EFA\u6587\u4EF6\u5939\\\u5E7B\u68A6\u94F6\u6CB3\u63D2\u4EF6\\SocketServer-SCPSL-1.1.2\\SocketServer-GoHttpQQBOT\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T15:34:03.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Class1.cs",
+              "RelativeDocumentMoniker": "SocketServer-GoHttpQQBOT\\Class1.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Class1.cs",
+              "RelativeToolTip": "SocketServer-GoHttpQQBOT\\Class1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T08:00:49.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RespawnCondition.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\CustomizableUIMeow-2.0\\CustomizableUIMeow-2.0\\Parser\\ConditionParser\\Respawn\\RespawnCondition.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Administrator\\Downloads\\CustomizableUIMeow-2.0\\CustomizableUIMeow-2.0\\Parser\\ConditionParser\\Respawn\\RespawnCondition.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\CustomizableUIMeow-2.0\\CustomizableUIMeow-2.0\\Parser\\ConditionParser\\Respawn\\RespawnCondition.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Administrator\\Downloads\\CustomizableUIMeow-2.0\\CustomizableUIMeow-2.0\\Parser\\ConditionParser\\Respawn\\RespawnCondition.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:12:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Program.cs",
+              "RelativeDocumentMoniker": "SocketServer-GoHttpQQBOT\\Program.cs",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Program.cs",
+              "RelativeToolTip": "SocketServer-GoHttpQQBOT\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAKACAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:10:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server-Qcat.csproj",
+              "DocumentMoniker": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "RelativeDocumentMoniker": "SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "ToolTip": "C:\\Users\\user123\\Desktop\\\u5E7B\u68A6\\SocketServer-SCPSL-socks\\SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "RelativeToolTip": "SocketServer-GoHttpQQBOT\\Server-Qcat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-20T07:10:16.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
