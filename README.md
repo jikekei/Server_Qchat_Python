@@ -1,15 +1,6 @@
 # Server_Qchat_Python
 
 **Server_Qchat_Python** 是基于 Python 实现的 **Server_Qchat 实验项目**，  
-用于学习与研究 Python 异步通信与 WebSocket 消息分发逻辑。  
-⚠️ 本项目仅供个人学习使用，并 **不作为正式的 Server_Qchat 服务端**。
-
----
-
-## 🧩 学习说明
-这是我 **第一次学习 Python**，  
-在编写过程中由 **GPT 协助完成**，旨在熟悉 Python 异步编程、网络通信以及项目结构化开发。  
-
 ---
 
 ## 📘 项目说明
